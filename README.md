@@ -1,4 +1,4 @@
-# Policy Desk — frontend for the Insurance AI Agent
+# Policy Desk — frontend for the Insurance AI Agent..
 
 React chat UI styled like an insurance certificate: security-paper palette,
 guilloché masthead, ledger-style replies. Talks to the backend at
